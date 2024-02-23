@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=MasterVito&reversal=false&fontAlign=50&fontAlignY=50&textBg=true&desc=Welcome!&descAlign=49&descAlignY=80&descSize=30&animation=fadeIn&section=header"/>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kge3f8cic2l469eddzp93ie8h&cover_image=true&theme=natemoo-re&show_offline=true&background_color=81448d&interchange=false&bar_color=3a1ca6&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kge3f8cic2l469eddzp93ie8h&redirect=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:443136409835012116)](https://discord.com/users/:443136409835012116)
 
 ### 👋 Hey There
 * 💼 I’m currently an editor - developer - Translator  
