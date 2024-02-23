@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=MasterVito&reversal=false&fontAlign=50&fontAlignY=50&textBg=true&desc=Welcome!&descAlign=49&descAlignY=80&descSize=30&animation=fadeIn&section=header"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:443136409835012116)](https://discord.com/users/:443136409835012116)
+[![Discord Presence](https://lanyard.cnrad.dev/api/443136409835012116)](https://discord.com/users/443136409835012116)
 
 ### 👋 Hey There
 * 💼 I’m currently an editor - developer - Translator  
