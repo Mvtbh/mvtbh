@@ -7,7 +7,6 @@
 
 ### 👋 Hey There
 * 💼 I’m currently an editor - developer - translator  
-* 🌱 I’m currently learning Hardware & Reverse Engineering
 * 📫 How to reach me: [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/Mv_tbh) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/users/443136409835012116)
 
 <h2> 🛠️ Some Languages/Tools I Have Used/Learning</h2>
