@@ -4,7 +4,7 @@
 * 🌍  I'm based in Iran
 * 🖥️  See my portfolio at [mvaop.ir](https://mvaop.ir)
 * ✉️  You can contact me at [mv@mvaop.ir](mailto:mv@mvaop.ir)
-* 🚀  I'm currently working on [a discord bot]
+* 🚀  I'm currently working on a discord bot
 * 🧠  I'm learning Next.JS and TypeScript
 
 ![](https://github-profile-trophy.vercel.app/?username=Mvtbh&theme=onestar)
