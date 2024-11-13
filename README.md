@@ -1,4 +1,4 @@
-![Header](header.png)
+![Header](Header.png)
 =============================
 
 * 🌍  I'm based in Iran
