@@ -12,11 +12,6 @@
 * Languages I Work with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=light)](https://skillicons.dev)
 
-* Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
-* Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 * Tech Stack
 =============================
