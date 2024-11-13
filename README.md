@@ -9,7 +9,13 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Mvtbh&theme=onestar)
 
-! Tech Stack
+Languages I Work with
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=light)](https://skillicons.dev)
+Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+Tech Stack
 =============================
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kge3f8cic2l469eddzp93ie8h&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=1cff14&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=kge3f8cic2l469eddzp93ie8h&redirect=true)
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=443136409835012116)
