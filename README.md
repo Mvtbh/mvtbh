@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&weight=100&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
 
-#### Check out my Website at https://mvaop.ir
+#### Check out my Website at https://mvaop.ir for more Information
 
-I'm a **frontend** and **Communrity Manager** from **Iran**, I go by She/they as Pronouns but you can call me Anything! Known as "**Mv**" in social media, I've spent years Learning my skills in **programming**, and **communrity management**.  
+I'm a **frontend** and **Community Manager** from **Iran**, I go by She/they as Pronouns but you can call me Anything! Known as "**Mv**" in social media, I've spent years Learning my skills in **programming**, and **community management**.  
 
 ---
 
