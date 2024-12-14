@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&weight=100&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
 
-#### Check out my Website at https://mvaop.ir for more Information
+#### Check out my Website at https://mvaop.ir for more information
 
 I'm a **frontend** and **Community Manager** from **Iran**, I go by She/they as Pronouns but you can call me Anything! Known as "**Mv**" in social media, I've spent years Learning my skills in **programming**, and **community management**.  
 
@@ -33,7 +33,7 @@ One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made
 
 ## **Github Stats**  
 
-![Ruby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvtbh&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvtbh&theme=radical)
+![Ruby's GitHub Stats](https://github-stats-tq8s-mvproj.vercel.app/api?username=mvtbh&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mvtbh&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvtbh&layout=compact&theme=radical)
+![Top Languages](https://github-stats-tq8s-mvproj.vercel.app/api/top-langs/?username=mvtbh&layout=compact&theme=radical)
  
