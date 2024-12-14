@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=21&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
 
 I'm a **frontend developer** and **Discord enthusiast(Dumb)** from Iran, I go by She/they as Pronouns but you can call me Anything! Known as "**Mv**" in social media, I've spent years learning my skills in **programming**, and **community management**.  
 
