@@ -14,10 +14,6 @@ I Started Learning Programming 3 years ago and quickly fell in love with **front
 
 One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made for a Discord server I was a Developer on.
 
-**3 years ago**, I started learning programming and rapidly became interested in **frontend** and **bot development**; since then, I have gone on to work on over 8 projects, helping mostly small and some larger servers to run and maintain their spaces more efficiently. 
-
-Femmie, a multipurpose Discord bot I built for a server I had previously developed, is among my most cherished projects. 
-
 ### **I Love To Do**  
 
   **Programming**  
