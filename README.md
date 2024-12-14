@@ -22,7 +22,7 @@ One of my most notable projects is **Femmie**, a multipurpose Discord bot I made
 
 ---
 
-## ️ **Skills, Tools & Softwares i use**  
+## ️ **Stacks, Tools & Softwares i use**  
 ![My Skills](https://skillicons.dev/icons?i=py,tailwind,react,ts,js,nextjs,bootstrap,html,pr,robloxstudio,linux&theme=dark)
 
 ##  **Contact Me** 
