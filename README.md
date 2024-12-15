@@ -4,15 +4,15 @@
 
 #### Check out my Website at https://mvaop.ir for more information
 
-I'm a **frontend** and **Community Manager** from **Iran**, I go by She/they as Pronouns but you can call me Anything! Known as "**Mv**" in social media, I've spent years Learning my skills in **programming**, and **community management**.  
+I'm a front-end developer and Community Manager from Iran. I go by "She" or "they" as Pronouns, but you can call me Anything! I'm known on social media as " Mv. " I've spent years Learning my skills in programming and community management.  
 
 ---
 
 ## **About Me**  
 
-I Started Learning Programming 3 years ago and quickly fell in love with **frontend** and **bot development**. Since then, I’ve worked on over **8 projects**, helping **Small & large servers** to build and manage their spaces effectively.  
+I Started Learning Programming 3 years ago and quickly fell in love with front-end and bot development. Since then, I’ve worked on over 8 projects, helping Small and large servers build and manage their spaces effectively.  
 
-One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made for a Discord server I was a Developer on.
+One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made for a Discord server on which I was a developer.
 
 ### **I Love To Do**  
 
