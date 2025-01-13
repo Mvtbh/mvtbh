@@ -4,7 +4,7 @@
 
 #### Check out my Website at https://mvaop.ir for more information
 
-I'm a front-end developer and Community Manager from Iran. You can call me anything you like, but I prefer to be called "She" or "they" as pronouns. I'm known on social media as "Mv" I've spent years Learning my skills in programming and community management.  
+I'm a passionate self-taught developer and community manager from Iran. You can call me anything you like, but I prefer to be called "She" or "they" as pronouns. I'm known on social media as "Mv" I've spent years Learning my skills in programming and community management.  
 
 ---
 
