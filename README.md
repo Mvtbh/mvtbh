@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&weight=100&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Hey+There%2C+I'm+Ruby!)](https://git.io/typing-svg)
 
-#### Check out my Website at https://mvaop.ir for more information
+#### Check out my Portfolio at https://mvaop.ir for more information
 
-I'm a passionate self-taught developer and community manager from Iran. You can call me anything you like, but I prefer to be called "She" or "they" as pronouns. I'm known on social media as "Mv" I've spent years Learning my skills in programming and community management.  
+I'm a passionate self-taught developer and community manager from Iran. You can call me anything you like, but I prefer to be called "she" or "they" as pronouns. I'm known on social media as "Mv, Vito, Ruby, MasterVito" I've spent years Learning my skills in programming and community management.  
 
 ---
 
 ## **About Me**  
 
-I Started Learning Programming 3 years ago and quickly fell in love with front-end and bot development. Since then, I’ve worked on over 8 projects, helping Small and large servers build and manage their spaces effectively.  
+I Started Learning Programming 3 years ago and quickly fell in love with front-end and bot development. Since then, I’ve worked on over 10 projects, helping Small and large servers build and manage their spaces effectively.  
 
-One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made for a Discord server on which I was a developer.
+One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made for a Discord server on which I am a developer.
 
 ### **I Love To Do**  
 
