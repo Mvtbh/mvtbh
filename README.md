@@ -39,4 +39,4 @@ One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made
 
 ## **Roadmap Stats**  
  
-[![roadmap.sh](https://roadmap.sh/card/tall/67b5be9098abd86c9969cb24?variant=dark&roadmaps=git-github%2Cfrontend%2Cfull-stack)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67b5be9098abd86c9969cb24?variant=dark&roadmaps=typescript%2Cfull-stack%2Cgit-github%2Cfrontend)](https://roadmap.sh)
