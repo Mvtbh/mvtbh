@@ -27,9 +27,6 @@ One of my most beloved projects is **Femmie**, a multipurpose Discord bot I made
 ## ️ **Stacks, Tools & Softwares i use**  
 ![My Skills](https://skillicons.dev/icons?i=py,tailwind,react,ts,js,nextjs,bootstrap,html,css,pr,figma,vercel,cloudflare,vscode,robloxstudio&theme=dark)
 
-##  **Contact Me** 
-[![Discord Presence](https://lanyard.cnrad.dev/api/443136409835012116?theme=transparnet&showDisplayName=true)](https://discord.com/users/443136409835012116)
-
 
 ## **Github Stats**  
 
